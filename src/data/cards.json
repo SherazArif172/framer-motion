@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Page 1 - Introduction",
+    "description": "This is the introductory page for our content valuable information.",
+    "footer": "Copyright 2024, All Rights Reserved"
+  },
+  {
+    "title": "Page 2 - Main Content",
+    "description": "This is the main content section with valuable information.",
+    "footer": "Copyright 2024, All Rights Reserved"
+  },
+  {
+    "title": "Page 3 - Conclusion",
+    "description": "This is the concluding section summarizing the content.",
+    "footer": "Copyright 2024, All Rights Reserved"
+  }
+]
