@@ -12,9 +12,9 @@ const page = () => {
         Framer Motion
       </h1>
       <motion.div
-        initial={{ opacity: 0, x: 15 }}
+        initial={{ opacity: 0, x: 25 }}
         animate={{ opacity: 1, x: 0 }}
-        exit={{ opacity: 0, x: 15 }}
+        exit={{ opacity: 0, x: 25 }}
         transition={{ delay: 0.25, ease: "easeInOut", duration: 0.5 }}
         className="grid grid-cols-3 gap-3 mt-16"
       >
